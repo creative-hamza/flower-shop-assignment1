@@ -54,5 +54,41 @@ body {
      margin-top: 32px;
      
 }
+/* Main section style */
+.feature-section{
+    height: 100vh;
+    padding: 150px 220px;
+}
+.featured-flower-content{
+    text-align: center;
+}
+.feature-flower-description{
+    width: 55%;
+    margin: auto;
+}
+.featured-flower-photo{
+    display: flex;
+    gap: 24px;
+    align-items:end;
+    /* border-radius: 300px 300px 0px 0px; */
+    margin-top: 40px;
+    
+    
+
+}
+.photo{
+   
+   
+
+align-items: end;
+
+}
+img{
+    width: 342px;
+height: 450px;
+border-radius: 300px 300px 0px 0px;
+padding-top: 50px;
+
+}
 
  
